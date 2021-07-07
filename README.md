@@ -1,5 +1,5 @@
 ## PreyPredatorModel
-#MATLAB implementation of prey-predator math model with addictive ruling
+# MATLAB implementation of prey-predator math model with addictive ruling
 
 Pure.m - pure implemention of math model
 
